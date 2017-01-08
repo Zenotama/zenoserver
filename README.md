@@ -1,2 +1,2 @@
 # zenoserver
-MC 1.7.10
+MC 1.11.2
